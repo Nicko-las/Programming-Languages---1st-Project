@@ -1,0 +1,7 @@
+Account_Name       User_name      PasswordHint
+Microsoft.com      stevo          osteve
+Yahoo.com          maria          amari
+Google.com         sjodis         jodiss
+   stvincent.edu         first.last                     yearFounded
+    acm.org        steve1         favoriteBinaryNumber1    
+ieee.org           ProgrammingLanguage1    0001_1010
