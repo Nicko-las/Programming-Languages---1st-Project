@@ -1,3 +1,0 @@
-Account_name    User_name   PasswordHint
-microsoft.com   stevo      osteve
-yahoo.com       sjodis     jodiss
